@@ -1,0 +1,19 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha '__tests__/**/*.js' --reporter mochawesome --recursive  --timeout 60000 --exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "fs": "^0.0.1-security",
+    "mocha": "^10.2.0",
+    "mochawesome": "^6.2.1",
+    "uuid": "^9.0.1"
+  }
+}
