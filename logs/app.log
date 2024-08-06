@@ -1,9 +1,28 @@
-2024-07-24T11:44:36.296Z | INFO | This is an info message
+2024-08-06T10:10:01.402Z |
+INFO |
+This is an info message
+2024-08-06T10:10:01.403Z |
+WARNING |
+This is a warning message
+2024-08-06T10:10:01.403Z |
+ERROR |
+This is an error message
 
-2024-07-24T11:44:36.301Z | WARNING | This is a warning message
-
-2024-07-24T11:44:36.301Z | ERROR | This is an error message
-
-2024-08-06T10:00:32.259Z | INFO | This is an info message
-2024-08-06T10:00:32.262Z | WARNING | This is a warning message
-2024-08-06T10:00:32.262Z | ERROR | This is an error message
+2024-08-06T10:11:42.707Z |
+INFO |
+This is an info message
+2024-08-06T10:11:42.710Z |
+WARNING |
+This is a warning message
+2024-08-06T10:11:42.710Z |
+ERROR |
+This is an error message
+2024-08-06T10:12:08.210Z |
+INFO |
+This is an info message
+2024-08-06T10:12:08.214Z |
+WARNING |
+This is a warning message
+2024-08-06T10:12:08.215Z |
+ERROR |
+This is an error message
